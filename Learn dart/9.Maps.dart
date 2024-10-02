@@ -1,0 +1,1 @@
+//store data of different structures in a single variable
